@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2016-07-23T14:29:35Z" finished-at="2016-07-23T14:29:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2016-07-23T14:29:35Z" finished-at="2016-07-23T14:29:35Z">
+      <class name="ds_array.Arrfun">
+        <test-method status="PASS" signature="findAllPairs()[pri:0, instance:ds_array.Arrfun@3c09711b]" name="findAllPairs" duration-ms="9" started-at="2016-07-23T19:59:35Z" finished-at="2016-07-23T19:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findAllPairs -->
+      </class> <!-- ds_array.Arrfun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
